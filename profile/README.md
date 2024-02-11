@@ -1,7 +1,7 @@
 ## BIENVENIDOS A LUDEBRA DEVELOPMENT
 
 <p align="center">
-  <img alt="Files Logo" src="./LUDEBRA LOGO.png" width="256" />
+  <img alt="Files Logo" src="../LUDEBRA LOGO.png" width="256" />
 </p>
 
 Somos una comunidad apasionada por la programación y el desarrollo de software. Nuestro objetivo es fomentar el aprendizaje colaborativo, compartir conocimientos y construir proyectos innovadores que impulsen el avance tecnológico.
